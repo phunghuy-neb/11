@@ -1,0 +1,12 @@
+=== DANH GIA TONG QUAN TAP LUAT ===
+Tong so luat: 383
+Support trung binh: 0.0138
+Confidence trung binh: 0.4233
+Lift trung binh: 11.7806
+So luat Lift > 2: 377
+So luat Lift > 3: 361
+
+Phan bo do dai antecedent:
+- Len = 1: 328 luat
+- Len = 2: 51 luat
+- Len = 3: 4 luat

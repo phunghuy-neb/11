@@ -1,0 +1,5 @@
+=== RULE GENERALIZATION SUMMARY ===
+So luat duoc danh gia: 383
+MAE |conf_train - conf_test|: 0.0392
+Tuong quan Pearson(conf_train, conf_test): 0.9584
+Da luu bieu do: conf_train_vs_conf_test.png
